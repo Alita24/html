@@ -1,0 +1,30 @@
+nav{
+	background-color: #ffcccc;
+	padding: 20px;
+	display: table; 
+	
+}
+footer {
+	background-color: #ffcccc;
+	padding: 20px;
+}
+nav a {
+	color: #8c77e1;
+	text-decoration: none;
+}
+.tt-name {
+	font-weight: bold;
+}
+nav button {
+	background-color: #b49993;
+	border-radius: 25px;
+}
+
+.linkies {
+	border-style: solid;
+	border-width: thin;
+	border-radius: 25px;
+	padding: 5px;
+}
+
+
