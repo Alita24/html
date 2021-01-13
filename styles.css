@@ -8,15 +8,13 @@ footer {
 	background-color: #ffcccc;
 	padding: 20px;
 }
-nav a {
+ a {
 	color: #8c77e1;
 	text-decoration: none;
 }
-.tt-name {
-	font-weight: bold;
-}
+
 nav button {
-	background-color: #b49993;
+	background-color: transparent;
 	border-radius: 25px;
 }
 
@@ -27,4 +25,13 @@ nav button {
 	padding: 5px;
 }
 
+
+ul li a {
+  text-decoration: none;
+}
+.my-profile-photo {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+}
 
