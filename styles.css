@@ -1,17 +1,22 @@
 nav{
-	background-color: #ffcccc;
+	
 	padding: 20px;
-}
-.navbar {
 	white-space:nowrap;
 }
 
+.bg-pink {
+	background-color: #50223c;
+}
 footer {
-	background-color: #ffcccc;
+	background-color: #50223c;
 	padding: 20px;
 }
-
-
+main #section {
+	background-color: #50223c;
+}
+.asda{
+	color: #f0adc5;
+}
 nav button {
 	background-color: transparent;
 	border-radius: 25px;
@@ -24,10 +29,6 @@ nav button {
 	padding: 5px;
 }
 
-
-ul li a {
-  text-decoration: none;
-}
 .my-profile-photo {
     width: 180px;
     height: 180px;
