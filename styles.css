@@ -1,17 +1,16 @@
 nav{
 	background-color: #ffcccc;
 	padding: 20px;
-	
-	
 }
+.navbar {
+	white-space:nowrap;
+}
+
 footer {
 	background-color: #ffcccc;
 	padding: 20px;
 }
- a {
-	color: #8c77e1;
-	text-decoration: none;
-}
+
 
 nav button {
 	background-color: transparent;
